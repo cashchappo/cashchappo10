@@ -1,4 +1,4 @@
-# Task #8 on Codewars Go
+# Task #10 on Codewars Go
 
 The task itself :arrow_down: 
 
